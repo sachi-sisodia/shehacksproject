@@ -12,7 +12,7 @@ The project is currently works for blue color as cloak. Future updates may inclu
 
 ## Project Screen Shot(s)
 
-Screenshots coming soon.
+![alt text](image-1.png)
 
 ## Installation and Setup Instructions
 
